@@ -1,0 +1,3 @@
+# GIT Sample Repository
+
+The **GitHubBasics** is a random repository created for practicing basic git commands and usage of basic GitHub. There is nothing much to see here, but feel free to contribute...
